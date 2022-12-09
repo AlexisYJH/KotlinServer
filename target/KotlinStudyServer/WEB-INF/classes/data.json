@@ -1,0 +1,37 @@
+{
+  "subjects": [
+
+    {
+      "id": "1",
+      "text": "Get started with Kotlin"
+    },
+    {
+      "id": "2",
+      "text": "Kotlin is a modern but already mature programming language aimed to make developers happier."
+    },
+    {
+      "id": "3",
+      "text": "Learn to use Jetpack"
+    },
+    {
+      "id": "4",
+      "text": "Jetpack is a suite of libraries to help developers follow best practices, reduce boilerplate code, and write code that works consistently across Android versions and devices so that developers can focus on the code they care about.\n"
+    },
+    {
+      "id": "5",
+      "text": "Includes new features such as VariableFonts and SwipeToRefresh to make your UI development seamless. We also introduced Compose BOMs to help you track different Compose stable releases\n"
+    },
+    {
+      "id": "6",
+      "text": "Paging 3 includes first-class support for Kotlin coroutines and Flow, as well as laying the groundwork for Compose integration. This version has a focus on reducing boilerplate in your implementation. "
+    },
+    {
+      "id": "7",
+      "text": "Leverage Compose on Wear OS! Compose for Wear OS builds upon the core Compose libraries providing additional wearable-specific components and, where appropriate, alternate implementations of core Compose components tailored to wearable devices. "
+    },
+    {
+      "id": "8",
+      "text": "Learn the essential Jetpack libraries in the Android Kotlin Fundamentals Course and reduce boilerplate in your app"
+    }
+  ]
+}
